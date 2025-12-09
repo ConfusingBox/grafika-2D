@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EECF44A-001F-42A3-91F3-62168F9E8C1D}|Kostur.vcxproj|C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\Source\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EECF44A-001F-42A3-91F3-62168F9E8C1D}|Kostur.vcxproj|solutionrelative:Source\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EECF44A-001F-42A3-91F3-62168F9E8C1D}|Kostur.vcxproj|C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\Sprite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EECF44A-001F-42A3-91F3-62168F9E8C1D}|Kostur.vcxproj|solutionrelative:Sprite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EECF44A-001F-42A3-91F3-62168F9E8C1D}|Kostur.vcxproj|C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\sprite.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6EECF44A-001F-42A3-91F3-62168F9E8C1D}|Kostur.vcxproj|solutionrelative:sprite.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EECF44A-001F-42A3-91F3-62168F9E8C1D}|Kostur.vcxproj|C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\sprite.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6EECF44A-001F-42A3-91F3-62168F9E8C1D}|Kostur.vcxproj|solutionrelative:sprite.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EECF44A-001F-42A3-91F3-62168F9E8C1D}|Kostur.vcxproj|C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\Shaders\\rect.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6EECF44A-001F-42A3-91F3-62168F9E8C1D}|Kostur.vcxproj|solutionrelative:Shaders\\rect.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EECF44A-001F-42A3-91F3-62168F9E8C1D}|Kostur.vcxproj|C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\Shaders\\rect.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6EECF44A-001F-42A3-91F3-62168F9E8C1D}|Kostur.vcxproj|solutionrelative:Shaders\\rect.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EECF44A-001F-42A3-91F3-62168F9E8C1D}|Kostur.vcxproj|C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\Sprite.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EECF44A-001F-42A3-91F3-62168F9E8C1D}|Kostur.vcxproj|solutionrelative:Sprite.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EECF44A-001F-42A3-91F3-62168F9E8C1D}|Kostur.vcxproj|C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\Textures\\svinja.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{6EECF44A-001F-42A3-91F3-62168F9E8C1D}|Kostur.vcxproj|solutionrelative:Textures\\svinja.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EECF44A-001F-42A3-91F3-62168F9E8C1D}|Kostur.vcxproj|C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\Textures\\krava.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{6EECF44A-001F-42A3-91F3-62168F9E8C1D}|Kostur.vcxproj|solutionrelative:Textures\\krava.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EECF44A-001F-42A3-91F3-62168F9E8C1D}|Kostur.vcxproj|C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\Textures\\claw_open.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{6EECF44A-001F-42A3-91F3-62168F9E8C1D}|Kostur.vcxproj|solutionrelative:Textures\\claw_open.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EECF44A-001F-42A3-91F3-62168F9E8C1D}|Kostur.vcxproj|C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\Textures\\claw_closed.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{6EECF44A-001F-42A3-91F3-62168F9E8C1D}|Kostur.vcxproj|solutionrelative:Textures\\claw_closed.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EECF44A-001F-42A3-91F3-62168F9E8C1D}|Kostur.vcxproj|C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\Header\\stb_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EECF44A-001F-42A3-91F3-62168F9E8C1D}|Kostur.vcxproj|solutionrelative:Header\\stb_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 315,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "svinja.png",
+              "DocumentMoniker": "C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\Textures\\svinja.png",
+              "RelativeDocumentMoniker": "Textures\\svinja.png",
+              "ToolTip": "C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\Textures\\svinja.png",
+              "RelativeToolTip": "Textures\\svinja.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-08T22:42:19.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "krava.jpg",
+              "DocumentMoniker": "C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\Textures\\krava.jpg",
+              "RelativeDocumentMoniker": "Textures\\krava.jpg",
+              "ToolTip": "C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\Textures\\krava.jpg",
+              "RelativeToolTip": "Textures\\krava.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-08T22:42:15.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "claw_open.png",
+              "DocumentMoniker": "C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\Textures\\claw_open.png",
+              "RelativeDocumentMoniker": "Textures\\claw_open.png",
+              "ToolTip": "C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\Textures\\claw_open.png",
+              "RelativeToolTip": "Textures\\claw_open.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-08T22:08:52.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "claw_closed.png",
+              "DocumentMoniker": "C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\Textures\\claw_closed.png",
+              "RelativeDocumentMoniker": "Textures\\claw_closed.png",
+              "ToolTip": "C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\Textures\\claw_closed.png",
+              "RelativeToolTip": "Textures\\claw_closed.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-08T19:47:22.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sprite.frag",
+              "DocumentMoniker": "C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\sprite.frag",
+              "RelativeDocumentMoniker": "sprite.frag",
+              "ToolTip": "C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\sprite.frag",
+              "RelativeToolTip": "sprite.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-08T17:29:04.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sprite.vert",
+              "DocumentMoniker": "C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\sprite.vert",
+              "RelativeDocumentMoniker": "sprite.vert",
+              "ToolTip": "C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\sprite.vert",
+              "RelativeToolTip": "sprite.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-08T17:28:44.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sprite.cpp",
+              "DocumentMoniker": "C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\Sprite.cpp",
+              "RelativeDocumentMoniker": "Sprite.cpp",
+              "ToolTip": "C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\Sprite.cpp",
+              "RelativeToolTip": "Sprite.cpp",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwFwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-08T16:48:11.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sprite.h",
+              "DocumentMoniker": "C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\Sprite.h",
+              "RelativeDocumentMoniker": "Sprite.h",
+              "ToolTip": "C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\Sprite.h",
+              "RelativeToolTip": "Sprite.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-08T16:47:21.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "rect.frag",
+              "DocumentMoniker": "C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\Shaders\\rect.frag",
+              "RelativeDocumentMoniker": "Shaders\\rect.frag",
+              "ToolTip": "C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\Shaders\\rect.frag",
+              "RelativeToolTip": "Shaders\\rect.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-08T15:01:16.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "rect.vert",
+              "DocumentMoniker": "C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\Shaders\\rect.vert",
+              "RelativeDocumentMoniker": "Shaders\\rect.vert",
+              "ToolTip": "C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\Shaders\\rect.vert",
+              "RelativeToolTip": "Shaders\\rect.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-08T15:00:42.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "stb_image.h",
+              "DocumentMoniker": "C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\Header\\stb_image.h",
+              "RelativeDocumentMoniker": "Header\\stb_image.h",
+              "ToolTip": "C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\Header\\stb_image.h",
+              "RelativeToolTip": "Header\\stb_image.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-08T14:15:16.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\Source\\Main.cpp",
+              "RelativeDocumentMoniker": "Source\\Main.cpp",
+              "ToolTip": "C:\\Users\\Leon\\Desktop\\Faks\\7 Semestar\\Racunarska grafika\\RG_Kostur\\Kostur\\Source\\Main.cpp",
+              "RelativeToolTip": "Source\\Main.cpp",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAnwMwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T20:45:22.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
