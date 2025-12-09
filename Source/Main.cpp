@@ -323,7 +323,7 @@ int main()
                         ndcY >= bottom && ndcY <= top);
 
                 if (inside) {
-                    // "pokupili" smo nagradu → reset igracke nazad u kutiju
+                    // "pokupili" smo nagradu onda reset igracke nazad u kutiju
                     t.vy = 0.0f;
                     t.state = ToyState::InBox;
 
@@ -495,7 +495,7 @@ int main()
                         (toyRight <= HOLE_RIGHT);
 
                     if (overHoleHorizontally) {
-                        // igračka pada kroz otvor rupe ka prize prostoru
+                        // igracka pada kroz otvor rupe ka prize prostoru
                         if (toyBottom <= PRIZE_BOTTOM) {
                             // stigla skroz dole u prize prostor
                             t.y = PRIZE_BOTTOM + t.halfSize;
@@ -506,10 +506,10 @@ int main()
                             prizeAvailable = true;
                             gameActive = false;
                         }
-                        // else: još uvek je između dna kutije i dna prize prostora – nastavlja da pada
+                        // else: jos uvek je izmedju dna kutije i dna prize prostora – nastavlja da pada
                     }
                     else {
-                        // nije potpuno iznad rupe → udarila u dno kutije
+                        // nije potpuno iznad rupe onda udarila u dno kutije
                         t.y = BOX_BOTTOM + t.halfSize;
                         t.vy = 0.0f;
                         t.state = ToyState::InBox;
